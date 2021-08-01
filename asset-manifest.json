@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/codmitu-com/static/css/main.f4290410.chunk.css",
+    "main.js": "/codmitu-com/static/js/main.0b80d7f7.chunk.js",
+    "main.js.map": "/codmitu-com/static/js/main.0b80d7f7.chunk.js.map",
+    "runtime-main.js": "/codmitu-com/static/js/runtime-main.3bd70f3e.js",
+    "runtime-main.js.map": "/codmitu-com/static/js/runtime-main.3bd70f3e.js.map",
+    "static/js/2.1dc330d7.chunk.js": "/codmitu-com/static/js/2.1dc330d7.chunk.js",
+    "static/js/2.1dc330d7.chunk.js.map": "/codmitu-com/static/js/2.1dc330d7.chunk.js.map",
+    "index.html": "/codmitu-com/index.html",
+    "static/css/main.f4290410.chunk.css.map": "/codmitu-com/static/css/main.f4290410.chunk.css.map",
+    "static/js/2.1dc330d7.chunk.js.LICENSE.txt": "/codmitu-com/static/js/2.1dc330d7.chunk.js.LICENSE.txt",
+    "static/media/codmitu.e1e70883.svg": "/codmitu-com/static/media/codmitu.e1e70883.svg",
+    "static/media/cutite-devices.c2ee4a7d.png": "/codmitu-com/static/media/cutite-devices.c2ee4a7d.png",
+    "static/media/frizerie-devices.df66885b.png": "/codmitu-com/static/media/frizerie-devices.df66885b.png",
+    "static/media/illustration.43dbd39d.svg": "/codmitu-com/static/media/illustration.43dbd39d.svg",
+    "static/media/portfolio-devices.228a176b.png": "/codmitu-com/static/media/portfolio-devices.228a176b.png",
+    "static/media/video.a75a9a74.mkv": "/codmitu-com/static/media/video.a75a9a74.mkv"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bd70f3e.js",
+    "static/js/2.1dc330d7.chunk.js",
+    "static/css/main.f4290410.chunk.css",
+    "static/js/main.0b80d7f7.chunk.js"
+  ]
+}
