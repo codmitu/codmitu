@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/cod.mitu/static/css/main.bf5bb5e9.chunk.css",
-    "main.js": "/cod.mitu/static/js/main.6ad50bd3.chunk.js",
-    "main.js.map": "/cod.mitu/static/js/main.6ad50bd3.chunk.js.map",
+    "main.css": "/cod.mitu/static/css/main.66f64019.chunk.css",
+    "main.js": "/cod.mitu/static/js/main.3c68b209.chunk.js",
+    "main.js.map": "/cod.mitu/static/js/main.3c68b209.chunk.js.map",
     "runtime-main.js": "/cod.mitu/static/js/runtime-main.7003dfee.js",
     "runtime-main.js.map": "/cod.mitu/static/js/runtime-main.7003dfee.js.map",
-    "static/js/2.5a74d4a4.chunk.js": "/cod.mitu/static/js/2.5a74d4a4.chunk.js",
-    "static/js/2.5a74d4a4.chunk.js.map": "/cod.mitu/static/js/2.5a74d4a4.chunk.js.map",
+    "static/js/2.d8e89f6c.chunk.js": "/cod.mitu/static/js/2.d8e89f6c.chunk.js",
+    "static/js/2.d8e89f6c.chunk.js.map": "/cod.mitu/static/js/2.d8e89f6c.chunk.js.map",
     "index.html": "/cod.mitu/index.html",
-    "static/css/main.bf5bb5e9.chunk.css.map": "/cod.mitu/static/css/main.bf5bb5e9.chunk.css.map",
-    "static/js/2.5a74d4a4.chunk.js.LICENSE.txt": "/cod.mitu/static/js/2.5a74d4a4.chunk.js.LICENSE.txt",
+    "static/css/main.66f64019.chunk.css.map": "/cod.mitu/static/css/main.66f64019.chunk.css.map",
+    "static/js/2.d8e89f6c.chunk.js.LICENSE.txt": "/cod.mitu/static/js/2.d8e89f6c.chunk.js.LICENSE.txt",
     "static/media/codmitu.e1e70883.svg": "/cod.mitu/static/media/codmitu.e1e70883.svg",
     "static/media/cutite-devices.c2ee4a7d.png": "/cod.mitu/static/media/cutite-devices.c2ee4a7d.png",
     "static/media/frizerie-devices.df66885b.png": "/cod.mitu/static/media/frizerie-devices.df66885b.png",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7003dfee.js",
-    "static/js/2.5a74d4a4.chunk.js",
-    "static/css/main.bf5bb5e9.chunk.css",
-    "static/js/main.6ad50bd3.chunk.js"
+    "static/js/2.d8e89f6c.chunk.js",
+    "static/css/main.66f64019.chunk.css",
+    "static/js/main.3c68b209.chunk.js"
   ]
 }
