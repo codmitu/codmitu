@@ -11,7 +11,7 @@ Hi there 👋
 
 💬 Ask me about ...
 
-📫 How to reach me: ... codmetwo@gmail.com
+📫 How to reach me: ... codmitu@gmail.com
 
 😄 Pronouns: ...
 
