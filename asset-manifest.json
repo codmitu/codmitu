@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/cod.mitu/static/css/main.3819a927.chunk.css",
-    "main.js": "/cod.mitu/static/js/main.56356f34.chunk.js",
-    "main.js.map": "/cod.mitu/static/js/main.56356f34.chunk.js.map",
-    "runtime-main.js": "/cod.mitu/static/js/runtime-main.7003dfee.js",
-    "runtime-main.js.map": "/cod.mitu/static/js/runtime-main.7003dfee.js.map",
-    "static/js/2.1023411e.chunk.js": "/cod.mitu/static/js/2.1023411e.chunk.js",
-    "static/js/2.1023411e.chunk.js.map": "/cod.mitu/static/js/2.1023411e.chunk.js.map",
-    "index.html": "/cod.mitu/index.html",
-    "static/css/main.3819a927.chunk.css.map": "/cod.mitu/static/css/main.3819a927.chunk.css.map",
-    "static/js/2.1023411e.chunk.js.LICENSE.txt": "/cod.mitu/static/js/2.1023411e.chunk.js.LICENSE.txt",
-    "static/media/codmitu.e1e70883.svg": "/cod.mitu/static/media/codmitu.e1e70883.svg",
-    "static/media/cutite-devices.c2ee4a7d.png": "/cod.mitu/static/media/cutite-devices.c2ee4a7d.png",
-    "static/media/frizerie-devices.df66885b.png": "/cod.mitu/static/media/frizerie-devices.df66885b.png",
-    "static/media/header.c898c82d.jpg": "/cod.mitu/static/media/header.c898c82d.jpg",
-    "static/media/illustration-buy.d076d7e8.png": "/cod.mitu/static/media/illustration-buy.d076d7e8.png",
-    "static/media/illustration.43dbd39d.svg": "/cod.mitu/static/media/illustration.43dbd39d.svg",
-    "static/media/portfolio-devices.228a176b.png": "/cod.mitu/static/media/portfolio-devices.228a176b.png",
-    "static/media/tile.dd585cd2.png": "/cod.mitu/static/media/tile.dd585cd2.png",
-    "static/media/video.a75a9a74.mkv": "/cod.mitu/static/media/video.a75a9a74.mkv"
+    "main.css": "/codmitu/static/css/main.3819a927.chunk.css",
+    "main.js": "/codmitu/static/js/main.28041a59.chunk.js",
+    "main.js.map": "/codmitu/static/js/main.28041a59.chunk.js.map",
+    "runtime-main.js": "/codmitu/static/js/runtime-main.9558751e.js",
+    "runtime-main.js.map": "/codmitu/static/js/runtime-main.9558751e.js.map",
+    "static/js/2.d27b96fa.chunk.js": "/codmitu/static/js/2.d27b96fa.chunk.js",
+    "static/js/2.d27b96fa.chunk.js.map": "/codmitu/static/js/2.d27b96fa.chunk.js.map",
+    "index.html": "/codmitu/index.html",
+    "static/css/main.3819a927.chunk.css.map": "/codmitu/static/css/main.3819a927.chunk.css.map",
+    "static/js/2.d27b96fa.chunk.js.LICENSE.txt": "/codmitu/static/js/2.d27b96fa.chunk.js.LICENSE.txt",
+    "static/media/codmitu.e1e70883.svg": "/codmitu/static/media/codmitu.e1e70883.svg",
+    "static/media/cutite-devices.c2ee4a7d.png": "/codmitu/static/media/cutite-devices.c2ee4a7d.png",
+    "static/media/frizerie-devices.df66885b.png": "/codmitu/static/media/frizerie-devices.df66885b.png",
+    "static/media/header.c898c82d.jpg": "/codmitu/static/media/header.c898c82d.jpg",
+    "static/media/illustration-buy.d076d7e8.png": "/codmitu/static/media/illustration-buy.d076d7e8.png",
+    "static/media/illustration.43dbd39d.svg": "/codmitu/static/media/illustration.43dbd39d.svg",
+    "static/media/portfolio-devices.228a176b.png": "/codmitu/static/media/portfolio-devices.228a176b.png",
+    "static/media/tile.dd585cd2.png": "/codmitu/static/media/tile.dd585cd2.png",
+    "static/media/video.a75a9a74.mkv": "/codmitu/static/media/video.a75a9a74.mkv"
   },
   "entrypoints": [
-    "static/js/runtime-main.7003dfee.js",
-    "static/js/2.1023411e.chunk.js",
+    "static/js/runtime-main.9558751e.js",
+    "static/js/2.d27b96fa.chunk.js",
     "static/css/main.3819a927.chunk.css",
-    "static/js/main.56356f34.chunk.js"
+    "static/js/main.28041a59.chunk.js"
   ]
 }
