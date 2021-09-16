@@ -35,7 +35,7 @@
    
    <br/>
    <br/>
-   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-top.png?raw=true" alt="divider"/>
+   <div align="center"><img width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-top.png?raw=true" alt="divider"/></div>
    <br/>
   
  <div align="center">
@@ -53,7 +53,7 @@
  </div>
    
   <br/>
-   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-bottom.png?raw=true" alt="divider"/>
+   <div align="center"><img width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-bottom.png?raw=true" alt="divider"/></div>
   <br/>
   <br/>
   
