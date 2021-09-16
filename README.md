@@ -22,6 +22,8 @@
  <img align="right" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
  <br/>
  <br/>
+ <br/>
+ <br/>
  
  <div align="center">
   <h3>Socials 💻</h3>
@@ -38,7 +40,7 @@
    <br/>
   
  <div align="center">
-  <h3>Languages & Frameworks 📙📘📒</h3>
+  <h2>Languages & Frameworks 📙📘📒</h2>
 
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,7 +67,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  
  <img align="left" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
- <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" height="100px" align="right"/>
+ <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" width="100px" align="right"/>
   </div>
   </div>
 
