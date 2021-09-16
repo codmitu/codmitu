@@ -9,21 +9,21 @@
 - 💬 Ask me about my real name
 - 📫 How to reach me: codmitu@gmail.com/+40 746 960 443
 - 😄 Pronouns: 
-- ⚡ Fun fact: if programming was easy everybody would've learn it.. oh wait..
+- ⚡ Fun fact: if programming was easy everybody would learn it... oh wait...
 
 <hr/>
 
 ### Socials 💻
 
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="22px" margin="0 10px"/>][twitter]
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="22px" margin="0 10px"/>][facebook]
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="22px" margin="0 10px"/>][youtube]
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="22px" margin="0 10px"/>][twitter]    
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="22px" padding="0 10px"/>][facebook]
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="22px" margin="10px"/>][youtube]
 
 <br/>
 
 ### Work 🦺
 
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="22px" margin="0 10px"/>][website]
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="22px" margin="0 10px"/>][website]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="22px" margin="0 10px"/>][fiverr]
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="22px" margin="0 10px"/>][upwork]
 
