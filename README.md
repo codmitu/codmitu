@@ -29,8 +29,10 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
   <div>
    
+   <br/>
    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" alt="divider"/>
-
+   </br>
+  
  <div align="center">
   <h3>Work 🦺</h3>
   
@@ -39,8 +41,10 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  </div>
    
+  <br/>
    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" alt="divider"/>
-
+<br/>
+  
 <div align="center">
 <h3>Languages & Frameworks 📙📘📒</h3>
 
@@ -52,8 +56,6 @@
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/redux.png?raw=true" alt="redux icon" width="30px" title="Redux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" title="Firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" title="Material-UI"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
 <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" height="100px" align="right"/>
   </div>
   </div>
