@@ -17,14 +17,14 @@
 
 
 <div>
- <span align="center">
+ <p align="center">
   <h3>Socials 💻</h3>
 
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
 
-  <span>
+  <p>
    
    <img align="right" width="100px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
 
