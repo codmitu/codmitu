@@ -18,7 +18,7 @@
 
 <div>
  <div align="center">
-### Socials 💻
+  <h3 align="center">Socials 💻</h3>
 
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@
 <div>
 
  <div align="center">
-### Work 🦺
+  <h3>Work 🦺</h3>
 
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
