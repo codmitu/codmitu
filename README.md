@@ -1,6 +1,10 @@
 <img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/animated-cover.gif?raw=true" alt="codmitu github cover image"/>
 
 ### Hello👋, I'm a front-end web developer from Romania. I create websites, web apps and games all with the power of javascript 
+<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/horizontal-line.gif?raw=true" alt="horizontal line"/>
+fgdfg
+
+gdfgd
 
 - 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning Typescript
@@ -11,15 +15,16 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: if programming was easy everybody would learn it... oh wait...
 
-<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/horizontal-line.gif?raw=true" alt="horizontal line"/>
 
+
+<div>
+ <div >
 ### Socials 💻
 
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
-
-<br/>
+<div>
 
 ### Work 🦺
 
