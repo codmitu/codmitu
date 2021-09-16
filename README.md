@@ -62,7 +62,7 @@
   <h3>Work 🦺</h3>
   
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.png?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiverr.png?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.png?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  
  <img align="left" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
