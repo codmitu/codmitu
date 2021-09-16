@@ -15,29 +15,29 @@
 
 ### Socials 💻
 
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" />][twitter]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" />][facebook]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" />][youtube]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
 
 <br/>
 
 ### Work 🦺
 
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" />][website]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" />][fiverr]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" />][upwork]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
 
 <br/>
 
 ### Languages & Frameworks 📙📘📒
 
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/javascript.jpg?raw=true" alt="javscript icon" width="30px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/react.png?raw=true" alt="reactjs icon" width="30px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/typescript.png?raw=true" alt="typescript icon" width="30px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" />&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" title="HTML"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" title="CSS"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/javascript.jpg?raw=true" alt="javscript icon" width="30px" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/react.png?raw=true" alt="reactjs icon" width="30px" title="ReactJS"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/typescript.png?raw=true" alt="typescript icon" width="30px" title="Typescript"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" title="Firebase"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" title="Material-UI"/>&nbsp;&nbsp;&nbsp;
 
 <br/>
 <br/>
