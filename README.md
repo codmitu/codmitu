@@ -1,10 +1,9 @@
 <img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/animated-cover.gif?raw=true" alt="codmitu github cover image"/>
 
 ### Hello👋, I'm a front-end web developer from Romania. I create websites, web apps and games all with the power of javascript 
-<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/horizontal-line.gif?raw=true" alt="horizontal line"/>
-fgdfg
 
-gdfgd
+<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/horizontal-line.gif?raw=true" alt="horizontal line"/>
+
 
 - 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning Typescript
@@ -18,7 +17,7 @@ gdfgd
 
 
 <div>
- <div >
+ <div align="center">
 ### Socials 💻
 
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
@@ -26,13 +25,13 @@ gdfgd
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
 <div>
 
+ <div align="center">
 ### Work 🦺
 
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
-
-<br/>
+ </div>
 
 <div align="center">
 <h3 align="center">Languages & Frameworks 📙📘📒</h3>
