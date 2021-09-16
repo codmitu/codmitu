@@ -39,7 +39,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  </div>
    
-   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" alt="divider"/>
+  
 
 <div align="center">
 <h3>Languages & Frameworks 📙📘📒</h3>
