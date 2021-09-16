@@ -31,16 +31,15 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
-  <div>
+  </div>
    
    <br/>
    <br/>
    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-top.png?raw=true" alt="divider"/>
-   </br>
    <br/>
   
  <div align="center">
-  <h2>Languages & Frameworks 📙📘📒</h2>
+  <h1>Languages & Frameworks 📙📘📒</h1>
 
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -53,7 +52,6 @@
   
  </div>
    
-  <br/>
   <br/>
    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-bottom.png?raw=true" alt="divider"/>
   <br/>
