@@ -36,6 +36,7 @@
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/javascript.jpg?raw=true" alt="javscript icon" width="30px" title="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/react.png?raw=true" alt="reactjs icon" width="30px" title="ReactJS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/typescript.png?raw=true" alt="typescript icon" width="30px" title="Typescript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/redux.png?raw=true" alt="redux icon" width="30px" title="Redux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" title="Firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" title="Material-UI"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
