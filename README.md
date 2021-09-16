@@ -2,7 +2,7 @@
 
 ### Hello👋, I'm a front-end web developer from Romania. I create websites, web apps and games all with the power of javascript 
 
-<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/horizontal-line.gif?raw=true" alt="horizontal line"/>
+<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.gif?raw=true" alt="horizontal line"/>
 
 
 - 🔭 I’m currently working on improving myself
