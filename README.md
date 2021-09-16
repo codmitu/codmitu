@@ -17,28 +17,30 @@
 
 
 <div>
+ 
  <img align="left" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
  <img align="right" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
+ 
  <div align="center">
   <h3>Socials 💻</h3>
-
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
   <div>
    
-   
+    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" />
 
  <div align="center">
   <h3>Work 🦺</h3>
-
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  </div>
+   
+   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" />
 
 <div align="center">
-<h3 align="center">Languages & Frameworks 📙📘📒</h3>
+<h3>Languages & Frameworks 📙📘📒</h3>
 
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
