@@ -29,7 +29,7 @@
 
 <br/>
 
-### Languages & Frameworks 📙📘📒
+<h3 align="center">Languages & Frameworks 📙📘📒</h3>
 
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
