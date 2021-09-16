@@ -33,7 +33,7 @@
    
    <br/>
    <br/>
-   <img align="center" width="300px" src="http://clipart-library.com/img/1636583.png" alt="divider"/>
+   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-top.png?raw=true" alt="divider"/>
    </br>
    <br/>
   
@@ -53,7 +53,7 @@
    
   <br/>
   <br/>
-   <img align="center" width="300px" src="http://clipart-library.com/img/1636583.png" alt="divider"/>
+   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-bottom.png?raw=true" alt="divider"/>
   <br/>
   <br/>
   
@@ -65,7 +65,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  
  <img align="left" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
- <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" width="100px" align="right"/>
+ <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" height="100px" align="right"/>
   </div>
   </div>
 
