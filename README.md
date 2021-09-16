@@ -11,7 +11,7 @@
 - 😄 Pronouns: 
 - ⚡ Fun fact: if programming was easy everybody would learn it... oh wait...
 
-<hr/>
+<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/horizontal-line.gif?raw=true" alt="horizontal line"/>
 
 ### Socials 💻
 
