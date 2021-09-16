@@ -29,7 +29,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
   <div>
    
-    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" />
+    <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" alt="divider"/>
 
  <div align="center">
   <h3>Work 🦺</h3>
@@ -39,7 +39,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  </div>
    
-   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" />
+   <img align="center" width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.png?raw=true" alt="divider"/>
 
 <div align="center">
 <h3>Languages & Frameworks 📙📘📒</h3>
@@ -55,6 +55,7 @@
 
 
 <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" height="100px" align="right"/>
+  </div>
   </div>
 
 [twitter]: https://twitter.com/codmitu
