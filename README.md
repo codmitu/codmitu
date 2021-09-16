@@ -17,8 +17,8 @@
 
 
 <div>
- <img align="left" width="100px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
- <img align="right" width="100px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
+ <img align="left" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
+ <img align="right" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
  <div align="center">
   <h3>Socials 💻</h3>
 
