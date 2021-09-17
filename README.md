@@ -18,12 +18,10 @@
 
 <div>
  
+ <div>
  <img align="left" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
  <img align="right" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
- <br/>
- <br/>
- <br/>
- <br/>
+ </div>
  
  <div align="center">
   <h3>Socials 💻</h3>
