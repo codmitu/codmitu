@@ -23,7 +23,7 @@
  <img align="right" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
  </div>
  
- <div align="center">
+ <div align="center" width="100%">
   <h3>Socials 💻</h3>
   
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.png?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
