@@ -18,12 +18,14 @@
 
 <div>
  
- <div width="100%">
  <img align="left" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
  <img align="right" width="200px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
- </div>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
  
- <div align="center" width="100%">
+ <div align="center" >
   <h3>Socials 💻</h3>
   
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.png?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
