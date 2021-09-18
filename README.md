@@ -2,77 +2,45 @@
 
 ### Hello👋, I'm a front-end web developer from Romania. I create websites, web apps and games all with the power of javascript 
 
-<img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.gif?raw=true" alt="horizontal line"/>
-
-
 - 🔭 I’m currently working on improving myself
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on a social app
-- 🤔 I’m looking for a job
+- 🤔 I’m looking for help with getting a job
 - 💬 Ask me about my real name
 - 📫 How to reach me: codmitu@gmail.com/+40 746 960 443
 - 😄 Pronouns: 
 - ⚡ Fun fact: if programming was easy everybody would learn it... oh wait...
 
+<hr/>
 
+### Socials 💻
 
-<div>
- 
- <img align="left" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
- <img align="right" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
- <br/>
- <br/>
- <br/>
- <br/>
-  <br/>
- <br/>
- <br/>
- <br/>
- 
- <div align="center" >
-  <h3>Socials 💻</h3>
-  
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.png?raw=true" alt="twitter icon" width="30px" title="Twitter"/>][twitter]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.png?raw=true" alt="facebook icon" width="30px" title="Facebook"/>][facebook]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" title="Youtube"/>][youtube]&nbsp;&nbsp;&nbsp;
-  </div>
-   
-   <br/>
-   <br/>
-   <div align="center"><img width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-top.png?raw=true" alt="divider"/></div>
-   <br/>
-  
- <div align="center">
-  <h3>Languages & Frameworks 📙📘📒</h3>
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/twitter.jpg?raw=true" alt="twitter icon" width="30px" />][twitter]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/facebook.jpg?raw=true" alt="facebook icon" width="30px" />][facebook]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/youtube.png?raw=true" alt="youtube icon" width="30px" />][youtube]&nbsp;&nbsp;&nbsp;
 
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" title="HTML"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.png?raw=true" alt="css icon" width="30px" title="CSS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/javascript.png?raw=true" alt="javscript icon" width="30px" title="JavaScript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/react.png?raw=true" alt="reactjs icon" width="30px" title="ReactJS"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/typescript.png?raw=true" alt="typescript icon" width="30px" title="Typescript"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/redux.png?raw=true" alt="redux icon" width="30px" title="Redux"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" title="Firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" title="Material-UI"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/codmitu/random-projects/blob/main/media-files/stripe.png?raw=true" alt="stripe icon" width="30px" title="Stripe"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
- </div>
-   
-  <br/>
-   <div align="center"><img width="300px" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider-bottom.png?raw=true" alt="divider"/></div>
-  <br/>
-  <br/>
-  
-<div align="center">
-  <h3>Work 🦺</h3>
-  
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiverr.png?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.png?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
- 
- <img align="left" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
- <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" width="100px" align="right"/>
-  </div>
-  </div>
+<br/>
+
+### Work 🦺
+
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" />][website]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" />][fiverr]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" />][upwork]&nbsp;&nbsp;&nbsp;
+
+<br/>
+
+### Languages & Frameworks 📙📘📒
+
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/html.png?raw=true" alt="html icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/css.jpg?raw=true" alt="css icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/javascript.jpg?raw=true" alt="javscript icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/react.png?raw=true" alt="reactjs icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/typescript.png?raw=true" alt="typescript icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" />&nbsp;&nbsp;&nbsp;
+
+<br/>
+<br/>
 
 [twitter]: https://twitter.com/codmitu
 [facebook]: https://www.facebook.com/profile.php?id=100069009977273
