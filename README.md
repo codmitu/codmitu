@@ -23,7 +23,7 @@
 
 ### Work 🦺
 
-[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/cmTransparent.png?raw=true" alt="codmitu website logo" width="30px" />][website]&nbsp;&nbsp;&nbsp;
+[<img src="https://raw.githubusercontent.com/codmitu/random-projects/a1cdadcd20571cecd3185118d05d623dcce3b1e0/media-files/codmitu.svg" alt="codmitu website logo" width="30px" />][website]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiver.jpg?raw=true" alt="fiverr icon" width="30px" />][fiverr]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.jpg?raw=true" alt="upwork icon" width="30px" />][upwork]&nbsp;&nbsp;&nbsp;
 
