@@ -70,7 +70,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.png?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  
  <img align="left" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
-<!--  <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" width="100px" align="right"/> -->
+ <!-- <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" width="100px" align="right"/> -->
   </div>
   </div>
 
