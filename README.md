@@ -18,8 +18,8 @@
 
 <div>
  
- <img align="left" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
- <img align="right" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
+ <img align="left" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/empty.png?raw=true"/>
+ <img align="right" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner2.png?raw=true"/>
  <br/>
  <br/>
  <br/>
@@ -69,7 +69,7 @@
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiverr.png?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.png?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  
- <img align="left" width="250px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
+ <img align="left" width="150px" src="https://github.com/codmitu/random-projects/blob/main/media-files/corner4.png?raw=true"/>
  <!-- <img src="https://c.tenor.com/Xsh8UEhrbYwAAAAi/fsd.gif" alt="flame" width="100px" align="right"/> -->
   </div>
   </div>
