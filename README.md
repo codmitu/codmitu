@@ -55,8 +55,8 @@
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/firebase.png?raw=true" alt="firebase icon" width="30px" title="Firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/codmitu/random-projects/blob/main/media-files/material-ui.png?raw=true" alt="material-ui icon" width="30px" title="Material-UI"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/codmitu/random-projects/blob/main/media-files/stripe.png?raw=true" alt="stripe icon" width="30px" title="Stripe"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/codmitu/random-projects/blob/main/media-files/sass.png?raw=true" alt="sass icon" width="30px" title="Stripe"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/codmitu/random-projects/blob/main/media-files/styled.png?raw=true" alt="styled-components icon" width="30px" title="Stripe"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/codmitu/random-projects/blob/main/media-files/sass.png?raw=true" alt="sass icon" width="30px" title="Sass"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/codmitu/random-projects/blob/main/media-files/styled.png?raw=true" alt="styled-components icon" width="30px" title="Styled-components"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
  </div>
    
