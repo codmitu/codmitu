@@ -5,9 +5,9 @@
 <img width="100%" src="https://github.com/codmitu/random-projects/blob/main/media-files/divider.gif?raw=true" alt="horizontal line"/>
 
 
-- 🔭 I’m currently working on improving myself
+- 🔭 I’m currently working on a "dating (not realy)" website
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on a social app
+- 👯 I’m looking to collaborate ...not now
 - 🤔 I’m looking for a job
 - 💬 Ask me about my real name
 - 📫 How to reach me: codmitu@gmail.com/+40 746 960 443
