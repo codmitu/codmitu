@@ -68,7 +68,7 @@
 <div align="center">
   <h3>Work 🦺</h3>
   
-[<img src="https://raw.githubusercontent.com/codmitu/random-projects/a1cdadcd20571cecd3185118d05d623dcce3b1e0/media-files/codmitu.svg" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/codmitu/random-projects/blob/main/media-files/codmitu_logo.png?raw=true" alt="codmitu website logo" width="30px" title="codmitu.com"/>][website]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/fiverr.png?raw=true" alt="fiverr icon" width="30px" title="Fiverr"/>][fiverr]&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/codmitu/random-projects/blob/main/media-files/upwork.png?raw=true" alt="upwork icon" width="30px" title="Upwork"/>][upwork]&nbsp;&nbsp;&nbsp;
  
