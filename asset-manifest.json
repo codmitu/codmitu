@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b7bda72.css",
+    "main.js": "/static/js/main.c67759b1.js",
+    "static/media/desktop.mkv": "/static/media/desktop.c43f63bdb1a9882729da.mkv",
+    "static/media/mobile.mkv": "/static/media/mobile.983347906c57f52c8774.mkv",
+    "static/media/frizerie-devices.png": "/static/media/frizerie-devices.dc74c54f7c125d07a5cc.png",
+    "static/media/cutite-devices.png": "/static/media/cutite-devices.d7dbfa3023d9b01a6ba3.png",
+    "static/media/masaj-devices.png": "/static/media/masaj-devices.9bf0f1f071f5484193e4.png",
+    "static/media/header.jpg": "/static/media/header.c898c82d11209a1388ba.jpg",
+    "static/media/clipart1.png": "/static/media/clipart1.3197642511c4f9308610.png",
+    "static/media/codmitu_noframe.png": "/static/media/codmitu_noframe.296e185f7c3c95e3d862.png",
+    "static/media/illustration-buy.png": "/static/media/illustration-buy.d076d7e8ed5531d8fb9f.png",
+    "static/media/cards.png": "/static/media/cards.4076356279b3b3f9be60.png",
+    "static/media/google.png": "/static/media/google.0f8a6dcea021df14f622.png",
+    "static/media/illustration.svg": "/static/media/illustration.43dbd39d82fe23f5bdbd157a4184ecfb.svg",
+    "static/media/bg.svg": "/static/media/bg.3971ffd466fad1a7725cd591bc5c0e7a.svg",
+    "index.html": "/index.html",
+    "main.1b7bda72.css.map": "/static/css/main.1b7bda72.css.map",
+    "main.c67759b1.js.map": "/static/js/main.c67759b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b7bda72.css",
+    "static/js/main.c67759b1.js"
+  ]
+}
