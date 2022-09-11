@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b7bda72.css",
-    "main.js": "/static/js/main.71cc3850.js",
+    "main.js": "/static/js/main.66934d36.js",
     "static/media/desktop.mkv": "/static/media/desktop.c43f63bdb1a9882729da.mkv",
     "static/media/mobile.mkv": "/static/media/mobile.983347906c57f52c8774.mkv",
     "static/media/frizerie-devices.png": "/static/media/frizerie-devices.dc74c54f7c125d07a5cc.png",
@@ -17,10 +17,10 @@
     "static/media/bg.svg": "/static/media/bg.3971ffd466fad1a7725cd591bc5c0e7a.svg",
     "index.html": "/index.html",
     "main.1b7bda72.css.map": "/static/css/main.1b7bda72.css.map",
-    "main.71cc3850.js.map": "/static/js/main.71cc3850.js.map"
+    "main.66934d36.js.map": "/static/js/main.66934d36.js.map"
   },
   "entrypoints": [
     "static/css/main.1b7bda72.css",
-    "static/js/main.71cc3850.js"
+    "static/js/main.66934d36.js"
   ]
 }
