@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1b7bda72.css",
-    "main.js": "/static/js/main.6bd5f207.js",
+    "main.js": "/static/js/main.657fb687.js",
     "static/media/desktop.mkv": "/static/media/desktop.c43f63bdb1a9882729da.mkv",
     "static/media/mobile.mkv": "/static/media/mobile.983347906c57f52c8774.mkv",
     "static/media/frizerie-devices.png": "/static/media/frizerie-devices.dc74c54f7c125d07a5cc.png",
@@ -13,14 +13,14 @@
     "static/media/illustration-buy.png": "/static/media/illustration-buy.d076d7e8ed5531d8fb9f.png",
     "static/media/cards.png": "/static/media/cards.4076356279b3b3f9be60.png",
     "static/media/google.png": "/static/media/google.0f8a6dcea021df14f622.png",
-    "static/media/illustration.svg": "/static/media/illustration.43dbd39d82fe23f5bdbd157a4184ecfb.svg",
-    "static/media/bg.svg": "/static/media/bg.3971ffd466fad1a7725cd591bc5c0e7a.svg",
+    "static/media/illustration.svg": "/static/media/illustration.77dc5398a49146b993a3c9ebc19c2963.svg",
+    "static/media/bg.svg": "/static/media/bg.298d4dc77f1354a8d09d3420d61f455f.svg",
     "index.html": "/index.html",
     "main.1b7bda72.css.map": "/static/css/main.1b7bda72.css.map",
-    "main.6bd5f207.js.map": "/static/js/main.6bd5f207.js.map"
+    "main.657fb687.js.map": "/static/js/main.657fb687.js.map"
   },
   "entrypoints": [
     "static/css/main.1b7bda72.css",
-    "static/js/main.6bd5f207.js"
+    "static/js/main.657fb687.js"
   ]
 }
